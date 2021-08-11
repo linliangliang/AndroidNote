@@ -1,0 +1,1 @@
+adb shell monkey -p com.liang.mookmusic -s 123123 --throttle 300 -v -v -v 500 > C:\Users\liang\Desktop\Monkey\monkey.txt
